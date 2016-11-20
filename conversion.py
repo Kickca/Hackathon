@@ -1,8 +1,3 @@
-# 1) first, to create a function that takes in an integer and returns binary string
-# 2) then create a function that takes in a binary string and returns an integer
-
-#def to_binary(num):
-    # # Read user input as integer and save it to variable called number
 
 import math
 # převod čísla na binary
